@@ -1,0 +1,14 @@
+{
+	"undefined": {
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"<title> %t1 </title>",
+			"<body dir=\"ltr\">",
+			"    %t2",
+			"</body>",
+			"</html>"
+		]
+	}
+}

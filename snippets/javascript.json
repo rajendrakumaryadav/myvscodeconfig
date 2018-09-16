@@ -1,0 +1,11 @@
+{
+	"script": {
+		"prefix": "script",
+		"body": [
+			"<script>",
+			"    ",
+			"</script>"
+		],
+		"description": "script "
+	}
+}

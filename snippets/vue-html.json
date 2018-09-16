@@ -1,0 +1,30 @@
+{
+	"html5": {
+		"prefix": "html:%",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"<title> %t1 </title>",
+			"<body dir=\"ltr\">",
+			"    %t2",
+			"</body>",
+			"</html>"
+		],
+		"description": ""
+	},
+	"html": {
+		"prefix": "html:5",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"<title> %t1 </title>",
+			"<body dir=\"ltr\">",
+			"    %t2",
+			"</body>",
+			"</html>"
+		],
+		"description": "html5"
+	}
+}
